@@ -1,7 +1,10 @@
 💬 Sentiment Analysis Web App (ML + Flask)
 This project is a Machine Learning-based web application that predicts the sentiment of tweets (Positive 😊 or Negative 😡) using Natural Language Processing (NLP).
+
 ---
+
 🚀 Features
+
 🔮 Real-time sentiment prediction
 🧠 Machine Learning model using Naive Bayes
 🧹 Text preprocessing (cleaning, stopwords removal)
@@ -9,7 +12,9 @@ This project is a Machine Learning-based web application that predicts the senti
 🎨 Responsive UI with Bootstrap
 ✨ Animated result display
 🔄 Clear button to reset input and result
+
 ---
+
 🛠 Tech Stack
 Python
 Pandas, NumPy
@@ -17,6 +22,7 @@ Scikit-learn
 NLTK
 Flask
 HTML, CSS, Bootstrap
+
 ---
 📊 How It Works
 1. Load Twitter dataset
@@ -77,6 +83,7 @@ negative
 <img width="2111" height="1182" alt="Negative" src="https://github.com/user-attachments/assets/19bea843-90f1-4860-9a28-2155b2a48558" />
 
 ---
+
 🎯 Key Learnings
 
 Importance of text preprocessing in NLP
@@ -84,11 +91,14 @@ Feature extraction using CountVectorizer
 Model training using Naive Bayes
 Integrating ML model with Flask
 Building interactive web applications
+
 ---
+
 🚀 Future Improvements
 📊 Add accuracy display
 🌳 Use advanced models (Random Forest, LSTM, BERT)
 📍 Improve handling of sarcasm
 🌐 Deploy online
+
 ---
 ⭐ If you like this project, give it a star!
